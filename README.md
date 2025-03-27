@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dori (aka SweetPotatoQT)
+- 👋 Hi, I’m Dori (aka Dororochi)
 - 👀 I’m interested in everything audio! 
 - 🌱 I’m currently learning video game audio techniques and implementation 
 - 💞️ I’m looking to collaborate on video games and other multimedia projects
